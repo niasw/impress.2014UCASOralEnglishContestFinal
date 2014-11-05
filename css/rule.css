@@ -1,0 +1,12 @@
+svg *.nodes {
+ stroke-width: 6pt;
+ stroke: rgb(80, 40, 0);
+ fill: none;
+ color: rgb(80, 40, 0);
+}
+svg text.nodes {
+ stroke-width: 2pt;
+ fill: rgb(80, 40, 0);
+ font-size: 28pt;
+ text-anchor: middle;
+}

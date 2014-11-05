@@ -1,0 +1,19 @@
+.rhythm {
+ background: rgb(250,250,180);
+ font-family: 楷体, KaiTi, Arial, sans-serif;
+}
+p.longtext {
+ font-family:Arial,sans-serif;
+ font-size:34px;
+ line-height:48px;
+ letter-spacing:0px;
+}
+img.sqr {
+ width: 560px;
+ margin: 0 auto;
+ display: inline;
+}
+.nomargin {
+ padding-left: 0;
+ padding-right: 0;
+}
