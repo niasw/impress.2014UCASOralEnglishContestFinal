@@ -1,7 +1,7 @@
 2014 UCAS Oral English Contest Final
 =======================================
 
-Copyright 2014 Sun Sibai <niasw@pku.edu.cn>
+Copyright 2014 Sun Sibai <niasw@pku.edu.cn> Wang Shen
 
 The impressive Presentation Document in 2014 UCAS Oral English Contest Final.
 
